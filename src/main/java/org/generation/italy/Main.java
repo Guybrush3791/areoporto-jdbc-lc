@@ -17,7 +17,6 @@ public class Main {
 	public static void main(String[] args) {
 		
 //		SELECT
-		
 //		query1();
 //		query2();
 //		query3();
